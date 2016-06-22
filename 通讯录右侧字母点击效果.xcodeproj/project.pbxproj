@@ -15,6 +15,7 @@
 		68B26B111D1931B100B5D891 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68B26B0F1D1931B100B5D891 /* LaunchScreen.storyboard */; };
 		68B26B1C1D1931B100B5D891 /* ___________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68B26B1B1D1931B100B5D891 /* ___________Tests.m */; };
 		68B26B271D1931B100B5D891 /* ___________UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68B26B261D1931B100B5D891 /* ___________UITests.m */; };
+		68B26B351D1931F800B5D891 /* PeopleNumber.plist in Resources */ = {isa = PBXBuildFile; fileRef = 68B26B341D1931F800B5D891 /* PeopleNumber.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		68B26B221D1931B100B5D891 /* 通讯录右侧字母点击效果UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "通讯录右侧字母点击效果UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68B26B261D1931B100B5D891 /* ___________UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___________UITests.m"; sourceTree = "<group>"; };
 		68B26B281D1931B100B5D891 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68B26B341D1931F800B5D891 /* PeopleNumber.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PeopleNumber.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				68B26B051D1931B100B5D891 /* AppDelegate.m */,
 				68B26B071D1931B100B5D891 /* ViewController.h */,
 				68B26B081D1931B100B5D891 /* ViewController.m */,
+				68B26B341D1931F800B5D891 /* PeopleNumber.plist */,
 				68B26B0A1D1931B100B5D891 /* Main.storyboard */,
 				68B26B0D1D1931B100B5D891 /* Assets.xcassets */,
 				68B26B0F1D1931B100B5D891 /* LaunchScreen.storyboard */,
@@ -245,6 +248,7 @@
 			files = (
 				68B26B111D1931B100B5D891 /* LaunchScreen.storyboard in Resources */,
 				68B26B0E1D1931B100B5D891 /* Assets.xcassets in Resources */,
+				68B26B351D1931F800B5D891 /* PeopleNumber.plist in Resources */,
 				68B26B0C1D1931B100B5D891 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
