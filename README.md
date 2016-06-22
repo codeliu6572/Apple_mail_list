@@ -1,6 +1,7 @@
 # Apple_mail_list
 模拟Apple通讯录－通讯录右侧字母点击效果
 
+https://github.com/codeliu6572/Apple_mail_list
 
 由于数据分组处理，所以加载起来阻塞了主线程，需要一定时间来处理数据，不过也不会很长，几秒，所以要解决这个问题：
 
